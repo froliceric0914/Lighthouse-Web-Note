@@ -1,1 +1,1 @@
-#[Eric]'s Notes at Lighthouse
+# [Eric]'s Notes at Lighthouse
